@@ -6,11 +6,4 @@ Full featured web application for a factory to manage sells, invoices and dealer
 2. Move all the files to your localhost xampp or wamp folder.
 3 Run the project.
 
-
-
-
-========== Author =========
-Shafayat Hossain Bayezid
-B.Sc. in CSE
-Daffodil International University
 www.shafayat.net
