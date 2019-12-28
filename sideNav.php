@@ -35,6 +35,9 @@ echo "
           <li class='nav-item pl-3'>
             <h6><a class='nav-link' href='manageInvoice.php'>Manage Invoices</a></h6>
           </li>
+          <li class='nav-item pl-3'>
+            <h6><a class='nav-link text-green font-weight-bold' href='https://github.com/Androlation/Factory-Management-System'>Get On GitHub</a></h6>
+          </li>
           
         </ul>
     </nav>
